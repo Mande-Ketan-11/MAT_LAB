@@ -33,7 +33,7 @@ This project was developed as a college minor project by a team of five develope
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/dreamdhub48/MAT_LAB
+git clone https://github.com/Mande-Ketan-11/MAT_LAB
 ```
 
 2. Install the required Python libraries using pip:
@@ -68,9 +68,9 @@ http://127.0.0.1:5000
 ## Developers Team
 
 - Ketan Rajendra Mande
+- Harsh Ramdhani Mishra
 - Darshan Ramesh Londhe
 - Prashant Rameshwar Mandavkar
-- Harsh Ramdhani Mishra
 - Bhuvaneshwari Shivkumar Patil
 
 ## License
